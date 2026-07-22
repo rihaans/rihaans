@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  AI Engineer Intern at <b>Prowess Software Services</b>, building multi-agent LangGraph workflows for an enterprise SDLC automation platform.
-</p>
-
-<p align="center">
-  I like building systems where multiple LLM agents collaborate with real guardrails — bounded retries, generator-critic review loops, and provider-agnostic model layers — rather than single-shot prompt wrappers.
+  Building systems where multiple LLM agents collaborate with real guardrails — bounded retries, generator-critic review loops, and provider-agnostic model layers.
 </p>
 
 <br />
@@ -26,24 +22,12 @@
 
 <h3 align="center">Featured Projects</h3>
 
-<table align="center">
-  <tr>
-    <td width="420" valign="top">
-      <a href="https://github.com/rihaans/Loom"><b>Loom</b></a> — 7-agent LangGraph pipeline that turns a natural-language prompt into a tested, containerized codebase. Generator-critic review loop, 480 tests, mypy-strict.
-    </td>
-    <td width="420" valign="top">
-      <a href="https://github.com/rihaans/Yuki"><b>Yuki</b></a> — Local-first AI memory companion. Three independently restartable processes over a token-authenticated loopback API, with a retrieval-augmented query agent.
-    </td>
-  </tr>
-  <tr>
-    <td width="420" valign="top">
-      <a href="https://github.com/rihaans/ryGPT"><b>ryGPT</b></a> — Fine-tuned an open-source LLM on personal chat history to write in my own Manglish style, end to end from data pipeline through training to deployment.
-    </td>
-    <td width="420" valign="top">
-      <a href="https://github.com/rihaans/Meltdown"><b>Meltdown</b></a> — Real-time co-op party game for 2–8 players on their phones over a custom protocol, no install or login required.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/rihaans/Loom"><img src="https://img.shields.io/badge/Loom-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/rihaans/Yuki"><img src="https://img.shields.io/badge/Yuki-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/rihaans/ryGPT"><img src="https://img.shields.io/badge/ryGPT-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/rihaans/Meltdown"><img src="https://img.shields.io/badge/Meltdown-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <br />
 
