@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Building systems where multiple LLM agents collaborate with real guardrails — bounded retries, generator-critic review loops, and provider-agnostic model layers.
+  Software Engineer Intern with hands-on experience building agentic systems, RAG pipelines, and full-stack applications.
 </p>
 
 <br />
