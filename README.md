@@ -11,7 +11,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nodejs,docker,postgres,mongodb,aws,git" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,rust,fastapi,django,react,nodejs,tauri,docker,postgres,mongodb,aws,git" alt="Tech stack icons" />
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 <h3 align="center">Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/rihaans/Loom"><img src="https://img.shields.io/badge/Loom-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/rihaans/Yuki"><img src="https://img.shields.io/badge/Yuki-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/rihaans/ryGPT"><img src="https://img.shields.io/badge/ryGPT-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/rihaans/Meltdown"><img src="https://img.shields.io/badge/Meltdown-8b5cf6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/rihaans/Loom"><img src="https://img.shields.io/badge/Loom-1a1b27?style=flat-square&logo=github&logoColor=A78BFA" /></a>
+  <a href="https://github.com/rihaans/Yuki"><img src="https://img.shields.io/badge/Yuki-1a1b27?style=flat-square&logo=github&logoColor=A78BFA" /></a>
+  <a href="https://github.com/rihaans/ryGPT"><img src="https://img.shields.io/badge/ryGPT-1a1b27?style=flat-square&logo=github&logoColor=A78BFA" /></a>
+  <a href="https://github.com/rihaans/Meltdown"><img src="https://img.shields.io/badge/Meltdown-1a1b27?style=flat-square&logo=github&logoColor=A78BFA" /></a>
 </p>
 
 <br />
